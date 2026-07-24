@@ -185,8 +185,11 @@ def build_token_map(snapshot: ProfileSnapshot, *, tagline: str) -> dict[str, str
         "name": user.display_name,
         "tagline": tagline,
         "bio": user.bio or tagline,
-        "company": user.company or "independent",
-        "location": user.location or "remote",
+        # No invented defaults.  If GitHub has no company or location on file,
+        # the card says so rather than asserting something plausible — this is
+        # copy about a real person, and a confident guess is worse than a dash.
+        "company": user.company or "—",
+        "location": user.location or "—",
         "repos": format_compact_number(user.public_repos),
         "followers": format_compact_number(user.followers),
         "following": format_compact_number(user.following),

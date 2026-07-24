@@ -39,9 +39,9 @@ _CHIP_HEIGHT = 24.0
 _CHIP_PADDING_X = 11.0
 _CHIP_GAP = 8.0
 _CHIP_RADIUS = 6.0
-#: Eyebrow label above the wordmark.
+#: Eyebrow label above the wordmark.  It carries the handle, so the wordmark
+#: itself is free to be a display name — "@Rohit Dastidar" would read wrong.
 _EYEBROW_BASELINE = 74.0
-_EYEBROW_TEXT = "GITHUB PROFILE"
 #: Deletion speed relative to typing speed.
 _DELETE_SPEED_RATIO = 0.45
 #: Period of the wordmark's specular shimmer sweep.
@@ -352,7 +352,7 @@ class HeroGenerator(AssetGenerator):
         group.add(
             Element(
                 "text",
-                _EYEBROW_TEXT,
+                f"@{self.config.username}",
                 x=_PADDING,
                 y=_EYEBROW_BASELINE,
                 fill=palette.cyan,
@@ -401,20 +401,8 @@ class HeroGenerator(AssetGenerator):
         group.add(
             Element(
                 "text",
-                "@",
-                x=_PADDING,
-                y=_WORDMARK_BASELINE,
-                fill=with_alpha(palette.cyan, 0.7),
-                font_family=fonts.sans,
-                font_size=settings.title_font_size * 0.62,
-                font_weight="600",
-            )
-        )
-        group.add(
-            Element(
-                "text",
                 self.config.display_name,
-                x=_PADDING + settings.title_font_size * 0.44,
+                x=_PADDING,
                 y=_WORDMARK_BASELINE,
                 fill=f"url(#{shimmer_id})",
                 font_family=fonts.sans,

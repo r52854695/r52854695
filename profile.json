@@ -3,6 +3,10 @@
     "Copy for the neofetch-style info card (output/info-card.svg).",
     "Edit freely: build.py re-renders the card from this file every run.",
     "",
+    "Keep this honest. Everything here is a public claim about a real person,",
+    "so prefer a {placeholder} backed by live GitHub data over a hand-written",
+    "line that sounds good but cannot be checked.",
+    "",
     "Row types:",
     "  kv     — white label in the left column, green value in the right",
     "  bullet — blue marker followed by white text",
@@ -21,26 +25,24 @@
     {
       "title": "ABOUT",
       "rows": [
+        { "type": "kv", "label": "name", "value": "Rohit Dastidar" },
         { "type": "kv", "label": "user", "value": "{login}@github" },
         { "type": "kv", "label": "host", "value": "github.com" },
         { "type": "kv", "label": "uptime", "value": "{account_age} since {member_since}" },
         { "type": "kv", "label": "repositories", "value": "{repos} public" },
         { "type": "kv", "label": "languages", "value": "{language_list}" },
-        { "type": "kv", "label": "focus", "value": "cloud platforms · automation" },
-        { "type": "kv", "label": "location", "value": "{location}" }
+        { "type": "kv", "label": "focus", "value": "cloud infrastructure · devops" }
       ]
     },
     {
       "title": "STACK",
       "rows": [
-        { "type": "bullet", "value": "Python · scripting · services" },
+        { "type": "bullet", "value": "Python · automation · tooling" },
         { "type": "bullet", "value": "Azure · AKS · Azure DevOps" },
-        { "type": "bullet", "value": "Terraform · HCL · infra as code" },
-        { "type": "bullet", "value": "Docker · Kubernetes · Helm" },
-        { "type": "bullet", "value": "GitHub Actions · CI/CD pipelines" },
-        { "type": "bullet", "value": "LangChain · RAG · Azure AI Foundry" },
-        { "type": "bullet", "value": "JavaScript · HTML · tooling" },
-        { "type": "bullet", "value": "Linux · Bash · PowerShell" }
+        { "type": "bullet", "value": "Kubernetes · containers" },
+        { "type": "bullet", "value": "Docker · image builds" },
+        { "type": "bullet", "value": "CI/CD pipelines" },
+        { "type": "bullet", "value": "GitHub Actions · workflows" }
       ]
     },
     {

@@ -372,20 +372,20 @@ class HeroConfig:
     subtitle_font_size: float = 15.0
     tag_font_size: float = 11.5
 
-    #: Rotating strings typed under the wordmark.
+    #: Rotating strings typed under the wordmark.  Keep these to things that
+    #: are actually true — the banner is the first claim anyone reads.
     taglines: tuple[str, ...] = (
-        "building resilient cloud platforms",
-        "python · azure · kubernetes · terraform",
-        "LLM systems that survive production",
+        "cloud infrastructure and devops",
+        "azure · aks · azure devops",
+        "python for automation and tooling",
     )
     #: Chips rendered along the bottom edge.
     chips: tuple[str, ...] = (
         "Python",
         "Azure",
         "Kubernetes",
-        "Terraform",
-        "LangChain",
         "Docker",
+        "Azure DevOps",
         "GitHub Actions",
     )
 
@@ -412,8 +412,8 @@ class Config:
     """Aggregate configuration handed to every generator."""
 
     username: str = "r52854695"
-    display_name: str = "r52854695"
-    tagline: str = "Cloud · Python · Platform Engineering"
+    display_name: str = "Rohit Dastidar"
+    tagline: str = "Cloud & DevOps · Azure · Kubernetes · Python"
 
     #: Optional PAT.  Only used to lift REST rate limits; never required.
     github_token_env_var: str = "GITHUB_TOKEN"

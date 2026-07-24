@@ -124,7 +124,7 @@
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04743;0.10379;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.04743;0.13834;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
 <text x="29.2" y="152.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="86.4" lengthAdjust="spacing">repositories</text>
-<text x="137.2" y="152.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="64.8" lengthAdjust="spacing">19 public</text>
+<text x="137.2" y="152.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="64.8" lengthAdjust="spacing">21 public</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05929;0.11565;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
@@ -234,7 +234,7 @@
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26087;0.31723;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.26087;0.35178;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
 <text x="29.2" y="608.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="86.4" lengthAdjust="spacing">public repos</text>
-<text x="137.2" y="608.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="14.4" lengthAdjust="spacing">19</text>
+<text x="137.2" y="608.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="14.4" lengthAdjust="spacing">21</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.27273;0.32909;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>

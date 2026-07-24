@@ -60,10 +60,15 @@ jobs:
       - name: Validate generated SVGs
         run: python tools/validate.py
 
-      - name: Commit if the output changed
+      - name: Commit if the assets changed
         run: |
-          if [ -z "$(git status --porcelain output README.md assets/avatar.png)" ]; then
-            echo "No changes to commit."
+          # The SVGs are deterministic: identical input produces identical
+          # bytes.  README.md is not — it stamps the build time — so it can
+          # never be part of the change test or every run would commit.
+          # The assets are the signal; the README follows them.
+          if [ -z "$(git status --porcelain output assets/avatar.png)" ]; then
+            echo "Assets unchanged; discarding the README timestamp bump."
+            git checkout -- README.md
             exit 0
           fi
           git config user.name  "github-actions[bot]"

@@ -1,0 +1,58 @@
+{
+  "$comment": [
+    "Copy for the neofetch-style info card (output/info-card.svg).",
+    "Edit freely: build.py re-renders the card from this file every run.",
+    "",
+    "Row types:",
+    "  kv     — white label in the left column, green value in the right",
+    "  bullet — blue marker followed by white text",
+    "  text   — plain white text, no marker",
+    "  rule   — a full-width cyan separator",
+    "  blank  — reserves one empty line",
+    "",
+    "Placeholders are substituted from live GitHub data at build time:",
+    "  {login} {name} {tagline} {bio} {company} {location}",
+    "  {repos} {followers} {following} {stars} {member_since} {account_age}",
+    "  {top_language} {languages} {language_list}",
+    "  {contributions} {active_days} {longest_streak} {current_streak} {busiest_day}",
+    "  {today} {year} {data_source}"
+  ],
+  "sections": [
+    {
+      "title": "ABOUT",
+      "rows": [
+        { "type": "kv", "label": "user", "value": "{login}@github" },
+        { "type": "kv", "label": "host", "value": "github.com" },
+        { "type": "kv", "label": "uptime", "value": "{account_age} since {member_since}" },
+        { "type": "kv", "label": "repositories", "value": "{repos} public" },
+        { "type": "kv", "label": "languages", "value": "{language_list}" },
+        { "type": "kv", "label": "focus", "value": "cloud platforms · automation" },
+        { "type": "kv", "label": "location", "value": "{location}" }
+      ]
+    },
+    {
+      "title": "STACK",
+      "rows": [
+        { "type": "bullet", "value": "Python · scripting · services" },
+        { "type": "bullet", "value": "Azure · AKS · Azure DevOps" },
+        { "type": "bullet", "value": "Terraform · HCL · infra as code" },
+        { "type": "bullet", "value": "Docker · Kubernetes · Helm" },
+        { "type": "bullet", "value": "GitHub Actions · CI/CD pipelines" },
+        { "type": "bullet", "value": "LangChain · RAG · Azure AI Foundry" },
+        { "type": "bullet", "value": "JavaScript · HTML · tooling" },
+        { "type": "bullet", "value": "Linux · Bash · PowerShell" }
+      ]
+    },
+    {
+      "title": "HIGHLIGHTS",
+      "rows": [
+        { "type": "kv", "label": "contributions", "value": "{contributions}" },
+        { "type": "kv", "label": "active days", "value": "{active_days}" },
+        { "type": "kv", "label": "longest streak", "value": "{longest_streak}" },
+        { "type": "kv", "label": "current streak", "value": "{current_streak}" },
+        { "type": "kv", "label": "public repos", "value": "{repos}" },
+        { "type": "kv", "label": "stars earned", "value": "{stars}" }
+      ]
+    }
+  ]
+}

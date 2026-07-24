@@ -1,0 +1,53 @@
+[project]
+name = "animated-github-profile"
+version = "1.0.0"
+description = "Generates standalone animated SVG assets and a README for a GitHub profile."
+requires-python = ">=3.10"
+dependencies = ["Pillow>=10.0,<13", "requests>=2.31,<3"]
+
+[project.urls]
+Repository = "https://github.com/r52854695/r52854695"
+
+# The project is a build script, not a distributable package: `python build.py`
+# is the entry point.  The sections below configure the tooling only.
+
+[tool.ruff]
+line-length = 92
+target-version = "py310"
+exclude = ["output"]
+
+[tool.ruff.lint]
+select = [
+  "E",    # pycodestyle
+  "F",    # pyflakes
+  "I",    # import sorting
+  "N",    # pep8-naming
+  "UP",   # pyupgrade
+  "B",    # bugbear
+  "SIM",  # simplify
+  "D",    # pydocstyle
+  "ANN",  # annotations
+]
+ignore = [
+  "D203",  # conflicts with D211
+  "D213",  # conflicts with D212
+  "ANN401",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Tests document themselves through their names; full docstrings on every
+# assertion helper would be noise.
+"tests/*" = ["D102", "D103", "ANN201", "ANN001"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+warn_unused_ignores = true
+exclude = ["output/"]
+
+[[tool.mypy.overrides]]
+module = ["PIL.*", "requests.*"]
+ignore_missing_imports = true

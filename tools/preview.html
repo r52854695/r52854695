@@ -1,0 +1,86 @@
+<!doctype html>
+<!--
+  Local preview harness.
+
+  Open this file directly in a browser after running `python build.py` to see
+  every generated asset animating at its real size, laid out the way the README
+  arranges them.  It loads the SVGs from ../output with relative paths, so no
+  server is required.
+
+  This page is a development tool only; nothing in the build depends on it.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile assets — local preview</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: rgba(255, 255, 255, 0.08);
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --cyan: #22d3ee;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 32px clamp(16px, 4vw, 56px) 96px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  }
+  header { margin-bottom: 40px; }
+  h1 { font-size: 20px; font-weight: 650; margin: 0 0 6px; letter-spacing: -0.2px; }
+  header p { margin: 0; color: var(--muted); font-size: 13px; }
+  header code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    color: var(--cyan);
+  }
+  section { margin-bottom: 44px; }
+  h2 {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 12px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  img { display: block; width: 100%; height: auto; }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; }
+  @media (max-width: 720px) { .pair { grid-template-columns: 1fr; } }
+  footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--border); padding-top: 18px; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Generated profile assets</h1>
+    <p>Rebuild with <code>python build.py</code>, then reload this page (hard-refresh to bypass the cache).</p>
+  </header>
+
+  <section>
+    <h2>hero-banner.svg</h2>
+    <img src="../output/hero-banner.svg" alt="Animated hero banner">
+  </section>
+
+  <section>
+    <h2>terminal-card.svg &nbsp;·&nbsp; info-card.svg</h2>
+    <div class="pair">
+      <img src="../output/terminal-card.svg" alt="ASCII portrait terminal card">
+      <img src="../output/info-card.svg" alt="Neofetch-style info card">
+    </div>
+  </section>
+
+  <section>
+    <h2>github-contribution-animation.svg</h2>
+    <img src="../output/github-contribution-animation.svg" alt="Animated contribution calendar">
+  </section>
+
+  <footer>
+    Assets are referenced through <code>&lt;img&gt;</code>, exactly as GitHub renders them —
+    so what you see here is what a README viewer sees.
+  </footer>
+</body>
+</html>

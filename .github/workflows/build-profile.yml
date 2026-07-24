@@ -1,0 +1,73 @@
+name: Build profile
+
+# Regenerates the animated SVGs and README.md.
+#
+# The contribution calendar changes every day, so this runs on a schedule as
+# well as on demand.  It only commits when the generated output actually
+# differs, which keeps the history free of empty "rebuild" commits.
+
+on:
+  schedule:
+    # 04:17 UTC daily — off the hour, because scheduled jobs at :00 queue behind
+    # everyone else's and can be delayed by tens of minutes.
+    - cron: "17 4 * * *"
+  push:
+    branches: [main, master]
+    paths:
+      - "build.py"
+      - "config.py"
+      - "profile.json"
+      - "README.template.md"
+      - "generator/**"
+      - "requirements.txt"
+      - ".github/workflows/build-profile.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -t . -v
+
+      - name: Generate assets and README
+        env:
+          # Lifts the anonymous REST rate limit.  The build works without it.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python build.py --verbose
+
+      - name: Validate generated SVGs
+        run: python tools/validate.py
+
+      - name: Commit if the output changed
+        run: |
+          if [ -z "$(git status --porcelain output README.md assets/avatar.png)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output README.md assets/avatar.png
+          git commit -m "chore: regenerate profile assets"
+          git push

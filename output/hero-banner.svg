@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 260" width="1100" height="260" role="img" preserveAspectRatio="xMidYMid meet">
+<title>r52854695 — animated profile banner</title>
+<desc>Cloud · Python · Platform Engineering</desc>
+<defs>
+<linearGradient x1="0" y1="0" x2="385" y2="260" gradientUnits="userSpaceOnUse" id="grad-page">
+<stop offset="0" stop-color="#15191f"/>
+<stop offset="0.55" stop-color="#0d1117"/>
+<stop offset="1" stop-color="#010409"/>
+</linearGradient>
+<clipPath id="clip-hero">
+<rect x="0" y="0" width="1100" height="260" rx="16" ry="16"/>
+</clipPath>
+<radialGradient cx="0.5" cy="0.5" r="0.5" id="grad-aurora-22d3ee">
+<stop offset="0" stop-color="#22d3ee" stop-opacity="0.3"/>
+<stop offset="0.42" stop-color="#22d3ee" stop-opacity="0.126"/>
+<stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="0.5" cy="0.5" r="0.5" id="grad-aurora-a78bfa">
+<stop offset="0" stop-color="#a78bfa" stop-opacity="0.3"/>
+<stop offset="0.42" stop-color="#a78bfa" stop-opacity="0.126"/>
+<stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="0.5" cy="0.5" r="0.5" id="grad-aurora-f0883e">
+<stop offset="0" stop-color="#f0883e" stop-opacity="0.3"/>
+<stop offset="0.42" stop-color="#f0883e" stop-opacity="0.126"/>
+<stop offset="1" stop-color="#f0883e" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="330" cy="130" r="682" gradientUnits="userSpaceOnUse" id="grad-grid-mask">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+<stop offset="0.55" stop-color="#ffffff" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="1100" height="260" id="mask-hero-grid">
+<rect width="1100" height="260" fill="url(#grad-grid-mask)"/>
+</mask>
+<linearGradient gradientUnits="userSpaceOnUse" x1="-605" y1="0" x2="0" y2="0" id="grad-hero-shimmer">
+<stop offset="0" stop-color="#e6edf3"/>
+<stop offset="0.34" stop-color="#22d3ee"/>
+<stop offset="0.5" stop-color="#c1f3fa"/>
+<stop offset="0.66" stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#e6edf3"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;1331 0" dur="5.2000s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath clipPathUnits="userSpaceOnUse" id="clip-tagline-0">
+<rect x="46" y="148" width="0" height="25.5">
+<animate attributeName="width" values="0;0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;297;288;279;270;261;252;243;234;225;216;207;198;189;180;171;162;153;144;135;126;117;108;99;90;81;72;63;54;45;36;27;18;9;0;0" keyTimes="0;0.06281;0.06586;0.06891;0.07196;0.07502;0.07807;0.08112;0.08417;0.08722;0.09027;0.09332;0.09637;0.09942;0.10247;0.10552;0.10857;0.11163;0.11468;0.11773;0.12078;0.12383;0.12688;0.12993;0.13298;0.13603;0.13908;0.14213;0.14519;0.14824;0.15129;0.15434;0.15739;0.16044;0.16349;0.16654;0.30251;0.30388;0.30526;0.30663;0.308;0.30938;0.31075;0.31212;0.31349;0.31487;0.31624;0.31761;0.31899;0.32036;0.32173;0.3231;0.32448;0.32585;0.32722;0.3286;0.32997;0.33134;0.33271;0.33409;0.33546;0.33683;0.33821;0.33958;0.34095;0.34232;0.3437;0.34507;0.34644;0.34782;1" dur="11.1444s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clip-tagline-1">
+<rect x="46" y="148" width="0" height="25.5">
+<animate attributeName="width" values="0;0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;324;333;342;351;342;333;324;315;306;297;288;279;270;261;252;243;234;225;216;207;198;189;180;171;162;153;144;135;126;117;108;99;90;81;72;63;54;45;36;27;18;9;0;0" keyTimes="0;0.34782;0.35087;0.35392;0.35697;0.36002;0.36307;0.36612;0.36917;0.37222;0.37527;0.37832;0.38138;0.38443;0.38748;0.39053;0.39358;0.39663;0.39968;0.40273;0.40578;0.40883;0.41188;0.41493;0.41799;0.42104;0.42409;0.42714;0.43019;0.43324;0.43629;0.43934;0.44239;0.44544;0.44849;0.45155;0.4546;0.45765;0.4607;0.46375;0.4668;0.60277;0.60414;0.60551;0.60689;0.60826;0.60963;0.61101;0.61238;0.61375;0.61513;0.6165;0.61787;0.61924;0.62062;0.62199;0.62336;0.62474;0.62611;0.62748;0.62885;0.63023;0.6316;0.63297;0.63435;0.63572;0.63709;0.63846;0.63984;0.64121;0.64258;0.64396;0.64533;0.6467;0.64807;0.64945;0.65082;0.65219;0.65357;0.65494;1" dur="11.1444s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clip-tagline-2">
+<rect x="46" y="148" width="0" height="25.5">
+<animate attributeName="width" values="0;0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;153;162;171;180;189;198;207;216;225;234;243;252;261;270;279;288;297;306;315;306;297;288;279;270;261;252;243;234;225;216;207;198;189;180;171;162;153;144;135;126;117;108;99;90;81;72;63;54;45;36;27;18;9;0;0" keyTimes="0;0.65494;0.65799;0.66104;0.66409;0.66714;0.67019;0.67324;0.67629;0.67935;0.6824;0.68545;0.6885;0.69155;0.6946;0.69765;0.7007;0.70375;0.7068;0.70985;0.71291;0.71596;0.71901;0.72206;0.72511;0.72816;0.73121;0.73426;0.73731;0.74036;0.74341;0.74646;0.74952;0.75257;0.75562;0.75867;0.76172;0.89769;0.89906;0.90043;0.90181;0.90318;0.90455;0.90593;0.9073;0.90867;0.91004;0.91142;0.91279;0.91416;0.91554;0.91691;0.91828;0.91965;0.92103;0.9224;0.92377;0.92515;0.92652;0.92789;0.92926;0.93064;0.93201;0.93338;0.93476;0.93613;0.9375;0.93888;0.94025;0.94162;0.94299;0.94437;1" dur="11.1444s" repeatCount="indefinite" calcMode="discrete"/>
+</rect>
+</clipPath>
+<linearGradient x1="0" y1="0" x2="1008" y2="0" gradientUnits="userSpaceOnUse" id="grad-accent-rule">
+<stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+<stop offset="0.22" stop-color="#22d3ee" stop-opacity="0.75"/>
+<stop offset="0.55" stop-color="#a78bfa" stop-opacity="0.65"/>
+<stop offset="0.82" stop-color="#3fb950" stop-opacity="0.55"/>
+<stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="550" cy="130" r="792" gradientUnits="userSpaceOnUse" id="grad-vignette">
+<stop offset="0" stop-color="#000000" stop-opacity="0"/>
+<stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.42"/>
+</radialGradient>
+<filter x="0%" y="0%" width="100%" height="100%" color-interpolation-filters="sRGB" id="filter-grain">
+<feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="noise"/>
+<feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+<feComponentTransfer in="mono" result="faded">
+<feFuncA type="linear" slope="0.035" intercept="0"/>
+</feComponentTransfer>
+</filter>
+</defs>
+<rect width="1100" height="260" rx="16" ry="16" fill="url(#grad-page)"/>
+<g clip-path="url(#clip-hero)">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;54 26;0 0" dur="19.2000s" repeatCount="indefinite" calcMode="spline" keySplines="0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95"/>
+<ellipse cx="154" cy="26" rx="300" ry="165" fill="url(#grad-aurora-22d3ee)"/>
+<animate attributeName="opacity" values="0.5;1;0.5" dur="9.0000s" repeatCount="indefinite"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;-62 -30;0 0" dur="27.4560s" repeatCount="indefinite" calcMode="spline" keySplines="0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95"/>
+<ellipse cx="572" cy="265.2" rx="340" ry="187" fill="url(#grad-aurora-a78bfa)"/>
+<animate attributeName="opacity" values="0.5;1;0.5" dur="11.3000s" repeatCount="indefinite"/>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;36 34;0 0" dur="16.7040s" repeatCount="indefinite" calcMode="spline" keySplines="0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95"/>
+<ellipse cx="1012" cy="57.2" rx="250" ry="137.5" fill="url(#grad-aurora-f0883e)"/>
+<animate attributeName="opacity" values="0.5;1;0.5" dur="13.6000s" repeatCount="indefinite"/>
+</g>
+</g>
+<g clip-path="url(#clip-hero)" mask="url(#mask-hero-grid)" opacity="0.5">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;34 17;0 0" dur="12.0000s" repeatCount="indefinite" calcMode="spline" keySplines="0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95"/>
+<line x1="-34" y1="-34" x2="-34" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="0" y1="-34" x2="0" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="34" y1="-34" x2="34" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="68" y1="-34" x2="68" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="102" y1="-34" x2="102" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="136" y1="-34" x2="136" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="170" y1="-34" x2="170" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="204" y1="-34" x2="204" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="238" y1="-34" x2="238" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="272" y1="-34" x2="272" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="306" y1="-34" x2="306" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="340" y1="-34" x2="340" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="374" y1="-34" x2="374" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="408" y1="-34" x2="408" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="442" y1="-34" x2="442" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="476" y1="-34" x2="476" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="510" y1="-34" x2="510" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="544" y1="-34" x2="544" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="578" y1="-34" x2="578" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="612" y1="-34" x2="612" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="646" y1="-34" x2="646" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="680" y1="-34" x2="680" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="714" y1="-34" x2="714" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="748" y1="-34" x2="748" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="782" y1="-34" x2="782" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="816" y1="-34" x2="816" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="850" y1="-34" x2="850" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="884" y1="-34" x2="884" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="918" y1="-34" x2="918" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="952" y1="-34" x2="952" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="986" y1="-34" x2="986" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="1020" y1="-34" x2="1020" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="1054" y1="-34" x2="1054" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="1088" y1="-34" x2="1088" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="1122" y1="-34" x2="1122" y2="294" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="-34" x2="1134" y2="-34" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="0" x2="1134" y2="0" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="34" x2="1134" y2="34" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="68" x2="1134" y2="68" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="102" x2="1134" y2="102" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="136" x2="1134" y2="136" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="170" x2="1134" y2="170" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="204" x2="1134" y2="204" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="238" x2="1134" y2="238" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+<line x1="-34" y1="272" x2="1134" y2="272" stroke="rgba(34,211,238,0.1)" stroke-width="1"/>
+</g>
+</g>
+<g clip-path="url(#clip-hero)">
+<circle cx="902.673" cy="53.718" r="1.241" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.177;0.643;0.14" dur="4.6724s" repeatCount="indefinite"/>
+</circle>
+<circle cx="666.035" cy="173.675" r="1.021" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.178;0.469;0.09" dur="3.5956s" repeatCount="indefinite"/>
+</circle>
+<circle cx="206.909" cy="55.785" r="1.188" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.111;0.85;0.186" dur="7.1891s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1078.986" cy="191.521" r="1.367" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.135;0.526;0.124" dur="2.9909s" repeatCount="indefinite"/>
+</circle>
+<circle cx="628.616" cy="173.372" r="1.223" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.091;0.513;0.197" dur="3.3460s" repeatCount="indefinite"/>
+</circle>
+<circle cx="364.761" cy="153.208" r="1.171" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.128;0.65;0.152" dur="4.1324s" repeatCount="indefinite"/>
+</circle>
+<circle cx="25.732" cy="75.314" r="1.445" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.054;0.515;0.246" dur="5.4592s" repeatCount="indefinite"/>
+</circle>
+<circle cx="746.451" cy="118.394" r="0.992" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.163;0.841;0.17" dur="6.4444s" repeatCount="indefinite"/>
+</circle>
+<circle cx="501.951" cy="107.283" r="1.317" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.123;0.49;0.132" dur="4.6277s" repeatCount="indefinite"/>
+</circle>
+<circle cx="584.286" cy="160.322" r="1.191" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.051;0.477;0.063" dur="3.6350s" repeatCount="indefinite"/>
+</circle>
+<circle cx="128.289" cy="197.519" r="1.431" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.061;0.601;0.207" dur="3.0815s" repeatCount="indefinite"/>
+</circle>
+<circle cx="434.054" cy="239.429" r="1.396" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.188;0.884;0.112" dur="6.6941s" repeatCount="indefinite"/>
+</circle>
+<circle cx="309.503" cy="146.893" r="0.739" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.097;0.572;0.08" dur="5.7947s" repeatCount="indefinite"/>
+</circle>
+<circle cx="841.97" cy="109.728" r="0.995" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.076;0.693;0.07" dur="6.4029s" repeatCount="indefinite"/>
+</circle>
+<circle cx="6.186" cy="195.118" r="0.649" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.125;0.543;0.107" dur="4.6418s" repeatCount="indefinite"/>
+</circle>
+<circle cx="910.627" cy="65.11" r="0.77" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.146;0.644;0.154" dur="2.9158s" repeatCount="indefinite"/>
+</circle>
+<circle cx="946.137" cy="85.718" r="1.134" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.144;0.824;0.179" dur="3.1234s" repeatCount="indefinite"/>
+</circle>
+<circle cx="506.211" cy="21.267" r="1.282" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.179;0.547;0.096" dur="4.2218s" repeatCount="indefinite"/>
+</circle>
+<circle cx="952.379" cy="244.914" r="1.436" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.239;0.54;0.24" dur="2.7914s" repeatCount="indefinite"/>
+</circle>
+<circle cx="665.45" cy="15.085" r="1.147" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.102;0.615;0.077" dur="6.5495s" repeatCount="indefinite"/>
+</circle>
+<circle cx="665.367" cy="208.093" r="1.178" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.097;0.501;0.152" dur="4.3791s" repeatCount="indefinite"/>
+</circle>
+<circle cx="907.299" cy="247.859" r="1.1" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.217;0.72;0.082" dur="5.5949s" repeatCount="indefinite"/>
+</circle>
+<circle cx="314.723" cy="179.578" r="1.372" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.084;0.834;0.181" dur="3.9869s" repeatCount="indefinite"/>
+</circle>
+<circle cx="252.033" cy="208.003" r="0.969" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.098;0.539;0.213" dur="4.7410s" repeatCount="indefinite"/>
+</circle>
+<circle cx="148.696" cy="136.457" r="0.988" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.199;0.631;0.166" dur="2.9569s" repeatCount="indefinite"/>
+</circle>
+<circle cx="2.229" cy="136.84" r="0.736" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.051;0.829;0.184" dur="4.2442s" repeatCount="indefinite"/>
+</circle>
+<circle cx="887.754" cy="152.26" r="0.819" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.219;0.783;0.234" dur="5.8550s" repeatCount="indefinite"/>
+</circle>
+<circle cx="948.989" cy="63.81" r="1.169" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.108;0.591;0.099" dur="4.6153s" repeatCount="indefinite"/>
+</circle>
+<circle cx="8.641" cy="164.558" r="1.133" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.052;0.742;0.244" dur="6.8419s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1021.959" cy="147.543" r="0.677" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.104;0.793;0.222" dur="3.9305s" repeatCount="indefinite"/>
+</circle>
+<circle cx="429.311" cy="179.275" r="0.65" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.249;0.81;0.132" dur="3.1031s" repeatCount="indefinite"/>
+</circle>
+<circle cx="602.696" cy="162.833" r="0.8" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.072;0.85;0.176" dur="6.3505s" repeatCount="indefinite"/>
+</circle>
+<circle cx="324.432" cy="206.153" r="0.616" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.15;0.601;0.132" dur="4.8254s" repeatCount="indefinite"/>
+</circle>
+<circle cx="144.32" cy="16.515" r="1.213" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.135;0.594;0.148" dur="3.3724s" repeatCount="indefinite"/>
+</circle>
+<circle cx="464.557" cy="124.737" r="1.284" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.204;0.555;0.169" dur="2.4617s" repeatCount="indefinite"/>
+</circle>
+<circle cx="272.263" cy="78.733" r="0.816" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.072;0.611;0.135" dur="2.4088s" repeatCount="indefinite"/>
+</circle>
+<circle cx="440.912" cy="189.442" r="1.467" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.13;0.751;0.156" dur="6.4666s" repeatCount="indefinite"/>
+</circle>
+<circle cx="65.101" cy="182.474" r="1.151" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.129;0.852;0.136" dur="5.7921s" repeatCount="indefinite"/>
+</circle>
+<circle cx="561.858" cy="157.617" r="1.034" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.149;0.614;0.194" dur="4.2048s" repeatCount="indefinite"/>
+</circle>
+<circle cx="49.742" cy="211.311" r="0.972" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.24;0.789;0.167" dur="4.0031s" repeatCount="indefinite"/>
+</circle>
+<circle cx="146.966" cy="1.665" r="0.888" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.129;0.54;0.196" dur="6.0102s" repeatCount="indefinite"/>
+</circle>
+<circle cx="987.233" cy="140.776" r="1.038" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.145;0.536;0.146" dur="4.9423s" repeatCount="indefinite"/>
+</circle>
+<circle cx="203.111" cy="190.832" r="1.178" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.243;0.854;0.156" dur="4.8712s" repeatCount="indefinite"/>
+</circle>
+<circle cx="118.514" cy="54.108" r="1.119" fill="#22d3ee" opacity="0">
+<animate attributeName="opacity" values="0.082;0.474;0.11" dur="3.2796s" repeatCount="indefinite"/>
+</circle>
+<circle cx="134.941" cy="37.042" r="1.124" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0.114;0.488;0.165" dur="6.0307s" repeatCount="indefinite"/>
+</circle>
+<circle cx="145.094" cy="222.956" r="0.765" fill="#ffffff" opacity="0">
+<animate attributeName="opacity" values="0.118;0.463;0.16" dur="2.6978s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g>
+<animate attributeName="opacity" values="1;1;0" keyTimes="0;0.94437;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95"/>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01077;0.05563;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<text x="46" y="74" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" font-weight="600" letter-spacing="3.4" opacity="0.85">GITHUB PROFILE</text>
+<text x="1054" y="74" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="end">19 repos  ·  28 contributions  ·  Python</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01615;0.0682;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="-18 0;-18 0;0 0;0 0" keyTimes="0;0.01615;0.08076;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="46" y="132" fill="rgba(34,211,238,0.7)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="35.96" font-weight="600">@</text>
+<text x="71.52" y="132" fill="url(#grad-hero-shimmer)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.6">r52854695</text>
+</g>
+<g>
+<g clip-path="url(#clip-tagline-0)">
+<text x="46" y="166" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" textLength="306" lengthAdjust="spacing" xml:space="preserve">building resilient cloud platforms</text>
+</g>
+<g clip-path="url(#clip-tagline-1)">
+<text x="46" y="166" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" textLength="351" lengthAdjust="spacing" xml:space="preserve">python · azure · kubernetes · terraform</text>
+</g>
+<g clip-path="url(#clip-tagline-2)">
+<text x="46" y="166" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" textLength="315" lengthAdjust="spacing" xml:space="preserve">LLM systems that survive production</text>
+</g>
+</g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="46 0;46 0;352 0;352 0;46 0;46 0;397 0;397 0;46 0;46 0;361 0;361 0;46 0;46 0" keyTimes="0;0.06281;0.16654;0.30114;0.34782;0.34783;0.4668;0.6014;0.65494;0.65495;0.76172;0.89632;0.94437;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95;0 0 1 1"/>
+<rect x="2" y="152.8" width="7.74" height="16.5" rx="1" ry="1" fill="#22d3ee">
+<animate attributeName="opacity" values="1;0;1" dur="1.0600s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="discrete"/>
+</rect>
+</g>
+<g>
+<g transform="translate(77.70,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03769;0.06102;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.03769;0.05352;0.06482;0.07537;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-31.7" y="-12" width="63.4" height="24" rx="6" ry="6" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">Python</text>
+</g>
+</g>
+<g transform="translate(145.65,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04397;0.0673;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.04397;0.0598;0.0711;0.08166;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-28.25" y="-12" width="56.5" height="24" rx="6" ry="6" fill="rgba(167,139,250,0.1)" stroke="rgba(167,139,250,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">Azure</text>
+</g>
+</g>
+<g transform="translate(227.40,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05025;0.07358;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.05025;0.06608;0.07738;0.08794;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-45.5" y="-12" width="91" height="24" rx="6" ry="6" fill="rgba(63,185,80,0.1)" stroke="rgba(63,185,80,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">Kubernetes</text>
+</g>
+</g>
+<g transform="translate(322.95,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05653;0.07986;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.05653;0.07236;0.08367;0.09422;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-42.05" y="-12" width="84.1" height="24" rx="6" ry="6" fill="rgba(240,136,62,0.1)" stroke="rgba(240,136,62,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#f0883e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">Terraform</text>
+</g>
+</g>
+<g transform="translate(415.05,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.06281;0.08614;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.06281;0.07864;0.08995;0.1005;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-42.05" y="-12" width="84.1" height="24" rx="6" ry="6" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">LangChain</text>
+</g>
+</g>
+<g transform="translate(496.80,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.06909;0.09242;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.06909;0.08492;0.09623;0.10678;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-31.7" y="-12" width="63.4" height="24" rx="6" ry="6" fill="rgba(167,139,250,0.1)" stroke="rgba(167,139,250,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">Docker</text>
+</g>
+</g>
+<g transform="translate(595.80,210.00)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07537;0.0987;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<g>
+<animateTransform attributeName="transform" type="scale" values="0.72;0.72;1.14;0.97;1;1" keyTimes="0;0.07537;0.0912;0.10251;0.11306;1" dur="11.1444s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
+<rect x="-59.3" y="-12" width="118.6" height="24" rx="6" ry="6" fill="rgba(63,185,80,0.1)" stroke="rgba(63,185,80,0.34)" stroke-width="1"/>
+<text x="0" y="4.14" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11.5" text-anchor="middle" letter-spacing="0.2">GitHub Actions</text>
+</g>
+</g>
+<rect x="46" y="259" width="1008" height="1" fill="url(#grad-accent-rule)" opacity="0.6"/>
+</g>
+</g>
+<g clip-path="url(#clip-hero)">
+<rect width="1100" height="260" fill="url(#grad-vignette)"/>
+<rect width="1100" height="260" filter="url(#filter-grain)" opacity="0.6"/>
+</g>
+<rect x="0.5" y="0.5" width="1099" height="259" rx="16" ry="16" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+</svg>

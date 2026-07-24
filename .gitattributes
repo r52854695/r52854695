@@ -1,0 +1,34 @@
+# ---------------------------------------------------------------------------
+# Line endings
+#
+# This repository's primary artefacts are *generated* text files that get
+# committed from two different operating systems: you regenerate them on
+# Windows, and .github/workflows/build-profile.yml regenerates them daily on
+# Linux.  Normalising to LF in the repository means a rebuild only ever shows
+# the lines that actually changed, instead of a whole-file diff caused by the
+# line-ending convention of whichever machine ran the build.
+# ---------------------------------------------------------------------------
+* text=auto eol=lf
+
+# Generated assets — always LF, never touched by hand.
+*.svg  text eol=lf
+*.md   text eol=lf
+*.py   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.toml text eol=lf
+*.html text eol=lf
+
+# Binary: never convert, never diff as text.
+*.png binary
+
+# ---------------------------------------------------------------------------
+# Diff and review hints
+#
+# The contribution calendar is ~2,700 generated nodes; a textual diff of it is
+# noise in every pull request.  Marking the output as generated collapses it in
+# GitHub's diff view and keeps it out of language statistics, while leaving it
+# fully tracked and served.
+# ---------------------------------------------------------------------------
+output/*.svg linguist-generated=true
+README.md    linguist-generated=true

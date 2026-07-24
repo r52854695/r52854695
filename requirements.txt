@@ -1,0 +1,14 @@
+# ---------------------------------------------------------------------------
+# Runtime dependencies for the animated GitHub profile generator.
+#
+#   python -m pip install -r requirements.txt
+#
+# The generator degrades gracefully when the network is unavailable, but both
+# packages below are required for a full-fidelity build.
+# ---------------------------------------------------------------------------
+
+# Avatar decoding, resampling and luminance analysis for the ASCII portrait.
+Pillow>=10.0,<13
+
+# GitHub REST/HTML retrieval with sane timeouts and connection pooling.
+requests>=2.31,<3

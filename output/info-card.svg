@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 540 659.38" width="540" height="659.38" role="img" preserveAspectRatio="xMidYMid meet">
+<title>r52854695 profile summary</title>
+<desc>A neofetch-style terminal card printing an about, stack and highlights summary line by line.</desc>
+<defs>
+<linearGradient x1="0" y1="0" x2="189" y2="659.38" gradientUnits="userSpaceOnUse" id="grad-page">
+<stop offset="0" stop-color="#15191f"/>
+<stop offset="0.55" stop-color="#0d1117"/>
+<stop offset="1" stop-color="#010409"/>
+</linearGradient>
+<clipPath id="clip-window-0-0-540-659">
+<rect x="0" y="0" width="540" height="659.38" rx="12" ry="12"/>
+</clipPath>
+<linearGradient x1="0" y1="0" x2="162" y2="659.38" gradientUnits="userSpaceOnUse" id="grad-card">
+<stop offset="0" stop-color="#24292f"/>
+<stop offset="0.5" stop-color="#161b22"/>
+<stop offset="1" stop-color="#101318"/>
+</linearGradient>
+<linearGradient x1="0" y1="0" x2="0" y2="38" gradientUnits="userSpaceOnUse" id="grad-titlebar">
+<stop offset="0" stop-color="#33373e"/>
+<stop offset="0.62" stop-color="#1c2128"/>
+<stop offset="1" stop-color="#181c22"/>
+</linearGradient>
+<linearGradient x1="0" y1="0" x2="1" y2="0" id="grad-titlebar-sheen">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.055"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient x1="0" y1="0" x2="540" y2="0" gradientUnits="userSpaceOnUse" id="grad-top-highlight">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient cx="0.36" cy="0.3" r="0.78" id="grad-traffic-0">
+<stop offset="0" stop-color="#ff9590"/>
+<stop offset="0.55" stop-color="#ff5f57"/>
+<stop offset="1" stop-color="#c24842"/>
+</radialGradient>
+<radialGradient cx="0.36" cy="0.3" r="0.78" id="grad-traffic-1">
+<stop offset="0" stop-color="#fed375"/>
+<stop offset="0.55" stop-color="#febc2e"/>
+<stop offset="1" stop-color="#c18f23"/>
+</radialGradient>
+<radialGradient cx="0.36" cy="0.3" r="0.78" id="grad-traffic-2">
+<stop offset="0" stop-color="#71db81"/>
+<stop offset="0.55" stop-color="#28c840"/>
+<stop offset="1" stop-color="#1e9831"/>
+</radialGradient>
+<radialGradient cx="270" cy="329.69" r="474.754" gradientUnits="userSpaceOnUse" id="grad-vignette">
+<stop offset="0" stop-color="#000000" stop-opacity="0"/>
+<stop offset="0.66" stop-color="#000000" stop-opacity="0"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.42"/>
+</radialGradient>
+<filter x="0%" y="0%" width="100%" height="100%" color-interpolation-filters="sRGB" id="filter-grain">
+<feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="noise"/>
+<feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+<feComponentTransfer in="mono" result="faded">
+<feFuncA type="linear" slope="0.035" intercept="0"/>
+</feComponentTransfer>
+</filter>
+</defs>
+<rect width="540" height="659.38" fill="url(#grad-page)"/>
+<g>
+<rect x="0" y="0" width="540" height="659.38" rx="12" ry="12" fill="url(#grad-card)"/>
+<g clip-path="url(#clip-window-0-0-540-659)">
+<rect x="0" y="0" width="540" height="38" fill="url(#grad-titlebar)"/>
+<rect x="0" y="37" width="540" height="1" fill="rgba(240,136,62,0.28)"/>
+<rect x="-183.6" y="0" width="183.6" height="38" fill="url(#grad-titlebar-sheen)">
+<animate attributeName="x" values="-183.6;540" dur="6.4000s" repeatCount="indefinite"/>
+</rect>
+<rect x="0" y="0" width="540" height="1" fill="url(#grad-top-highlight)"/>
+<g transform="translate(20.00,19.00)">
+<animateTransform attributeName="transform" type="scale" values="0;0;1.12;1;1" keyTimes="0;0.02372;0.0751;0.11462;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0 0 1 1"/>
+<circle r="6" fill="url(#grad-traffic-0)"/>
+<circle r="6" fill="none" stroke="#943732" stroke-width="0.6" opacity="0.7"/>
+<ellipse cx="-1.7" cy="-2" rx="2.1" ry="1.4" fill="#ffffff" opacity="0.34"/>
+</g>
+<g transform="translate(40.00,19.00)">
+<animateTransform attributeName="transform" type="scale" values="0;0;1.12;1;1" keyTimes="0;0.0415;0.09289;0.13241;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0 0 1 1"/>
+<circle r="6" fill="url(#grad-traffic-1)"/>
+<circle r="6" fill="none" stroke="#936d1b" stroke-width="0.6" opacity="0.7"/>
+<ellipse cx="-1.7" cy="-2" rx="2.1" ry="1.4" fill="#ffffff" opacity="0.34"/>
+</g>
+<g transform="translate(60.00,19.00)">
+<animateTransform attributeName="transform" type="scale" values="0;0;1.12;1;1" keyTimes="0;0.05929;0.11067;0.1502;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0 0 1 1"/>
+<circle r="6" fill="url(#grad-traffic-2)"/>
+<circle r="6" fill="none" stroke="#177425" stroke-width="0.6" opacity="0.7"/>
+<ellipse cx="-1.7" cy="-2" rx="2.1" ry="1.4" fill="#ffffff" opacity="0.34"/>
+</g>
+<text x="270" y="23" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">neofetch — profile</text>
+<rect x="0" y="0" width="540" height="659.38" fill="url(#grad-vignette)" pointer-events="none"/>
+<rect x="0" y="0" width="540" height="659.38" filter="url(#filter-grain)" opacity="0.5" pointer-events="none"/>
+</g>
+<rect x="0.5" y="0.5" width="539" height="658.38" rx="12" ry="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+</g>
+<g>
+<animate attributeName="opacity" values="1;1;0" keyTimes="0;0.87747;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0.445 0.05 0.55 0.95;0.445 0.05 0.55 0.95"/>
+<g opacity="0">
+<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.05636;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0" keyTimes="0;0.09091;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1;0 0 1 1"/>
+<rect x="22" y="64.34" width="3" height="10.32" rx="1.5" ry="1.5" fill="#f0883e"/>
+<text x="32.2" y="69.36" fill="#f0883e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" xml:space="preserve">ABOUT</text>
+<rect x="82.6" y="74.36" width="435.4" height="1" fill="rgba(34,211,238,0.42)"/>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01186;0.06822;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.01186;0.10277;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="95.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="28.8" lengthAdjust="spacing">user</text>
+<text x="137.2" y="95.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="115.2" lengthAdjust="spacing">r52854695@github</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02372;0.08008;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.02372;0.11462;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="114.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="28.8" lengthAdjust="spacing">host</text>
+<text x="137.2" y="114.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="72" lengthAdjust="spacing">github.com</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03557;0.09194;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.03557;0.12648;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="133.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="43.2" lengthAdjust="spacing">uptime</text>
+<text x="137.2" y="133.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="108" lengthAdjust="spacing">3.0y since 2023</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04743;0.10379;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.04743;0.13834;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="152.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="86.4" lengthAdjust="spacing">repositories</text>
+<text x="137.2" y="152.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="64.8" lengthAdjust="spacing">19 public</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05929;0.11565;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.05929;0.1502;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="171.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="64.8" lengthAdjust="spacing">languages</text>
+<text x="137.2" y="171.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="208.8" lengthAdjust="spacing">Python, JavaScript, HCL, HTML</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07115;0.12751;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.07115;0.16206;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="190.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="36" lengthAdjust="spacing">focus</text>
+<text x="137.2" y="190.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="201.6" lengthAdjust="spacing">cloud platforms · automation</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.083;0.13937;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.083;0.17391;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="209.36" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="57.6" lengthAdjust="spacing">location</text>
+<text x="137.2" y="209.36" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="43.2" lengthAdjust="spacing">remote</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09486;0.15123;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.09486;0.18577;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<rect x="22" y="273.53" width="3" height="10.32" rx="1.5" ry="1.5" fill="#f0883e"/>
+<text x="32.2" y="278.55" fill="#f0883e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" xml:space="preserve">STACK</text>
+<rect x="82.6" y="283.55" width="435.4" height="1" fill="rgba(34,211,238,0.42)"/>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10672;0.16308;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.10672;0.19763;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="304.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="304.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="208.8" lengthAdjust="spacing">Python · scripting · services</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.11858;0.17494;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.11858;0.20949;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="323.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="323.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="187.2" lengthAdjust="spacing">Azure · AKS · Azure DevOps</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.13043;0.1868;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.13043;0.22134;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="342.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="342.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="223.2" lengthAdjust="spacing">Terraform · HCL · infra as code</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14229;0.19866;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.14229;0.2332;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="361.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="361.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="187.2" lengthAdjust="spacing">Docker · Kubernetes · Helm</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15415;0.21051;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.15415;0.24506;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="380.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="380.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="230.4" lengthAdjust="spacing">GitHub Actions · CI/CD pipelines</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16601;0.22237;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.16601;0.25692;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="399.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="399.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="244.8" lengthAdjust="spacing">LangChain · RAG · Azure AI Foundry</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17787;0.23423;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.17787;0.26877;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="418.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="418.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="194.4" lengthAdjust="spacing">JavaScript · HTML · tooling</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18972;0.24609;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.18972;0.28063;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="437.55" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" xml:space="preserve">▸</text>
+<text x="43.6" y="437.55" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="180" lengthAdjust="spacing">Linux · Bash · PowerShell</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20158;0.25794;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.20158;0.29249;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<rect x="22" y="501.72" width="3" height="10.32" rx="1.5" ry="1.5" fill="#f0883e"/>
+<text x="32.2" y="506.74" fill="#f0883e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" xml:space="preserve">HIGHLIGHTS</text>
+<rect x="118.6" y="511.74" width="399.4" height="1" fill="rgba(34,211,238,0.42)"/>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21344;0.2698;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.21344;0.30435;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="532.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="93.6" lengthAdjust="spacing">contributions</text>
+<text x="137.2" y="532.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="14.4" lengthAdjust="spacing">28</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2253;0.28166;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.2253;0.31621;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="551.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="79.2" lengthAdjust="spacing">active days</text>
+<text x="137.2" y="551.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve">8</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23715;0.29352;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.23715;0.32806;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="570.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">longest streak</text>
+<text x="137.2" y="570.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="14.4" lengthAdjust="spacing">2d</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24901;0.30538;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.24901;0.33992;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="589.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="100.8" lengthAdjust="spacing">current streak</text>
+<text x="137.2" y="589.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="14.4" lengthAdjust="spacing">0d</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26087;0.31723;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.26087;0.35178;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="608.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="86.4" lengthAdjust="spacing">public repos</text>
+<text x="137.2" y="608.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve" textLength="14.4" lengthAdjust="spacing">19</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.27273;0.32909;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0;0 0" keyTimes="0;0.27273;0.36364;1" dur="5.06s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0 0 1 1"/>
+<text x="29.2" y="627.74" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="0.92" xml:space="preserve" textLength="86.4" lengthAdjust="spacing">stars earned</text>
+<text x="137.2" y="627.74" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" opacity="1" xml:space="preserve">0</text>
+</g>
+</g>
+</svg>

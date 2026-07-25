@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="output/hero-banner.svg?v=cd46db68cc" alt="Rohit Dastidar — Cloud & DevOps · Azure · Kubernetes · Python" width="100%">
+<img src="output/hero-banner.svg?v=a88eaee605" alt="Rohit Dastidar — Cloud & DevOps · Azure · Kubernetes · Python" width="100%">
 
 </div>
 
@@ -20,8 +20,8 @@
 <p align="center"><em>Cloud & DevOps · Azure · Kubernetes · Python</em></p>
 
 <p align="center">
-  <a href="https://github.com/r52854695?tab=repositories"><img src="https://img.shields.io/badge/repositories-21-22d3ee?style=flat-square&labelColor=161b22" alt="21 public repositories"></a>
-  <a href="https://github.com/r52854695"><img src="https://img.shields.io/badge/contributions-28-3fb950?style=flat-square&labelColor=161b22" alt="28 contributions"></a>
+  <a href="https://github.com/r52854695?tab=repositories"><img src="https://img.shields.io/badge/repositories-22-22d3ee?style=flat-square&labelColor=161b22" alt="22 public repositories"></a>
+  <a href="https://github.com/r52854695"><img src="https://img.shields.io/badge/contributions-34-3fb950?style=flat-square&labelColor=161b22" alt="34 contributions"></a>
   <a href="https://github.com/r52854695?tab=followers"><img src="https://img.shields.io/badge/followers-0-a78bfa?style=flat-square&labelColor=161b22" alt="0 followers"></a>
   <img src="https://img.shields.io/badge/since-2023-f0883e?style=flat-square&labelColor=161b22" alt="Member since 2023">
 </p>
@@ -32,10 +32,10 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <img src="output/terminal-card.svg?v=bbfba870d0" alt="ASCII portrait of @r52854695 typing itself into a terminal" width="100%">
+        <img src="output/terminal-card.svg?v=62e04716ac" alt="ASCII portrait of @r52854695 typing itself into a terminal" width="100%">
       </td>
       <td width="50%" valign="top">
-        <img src="output/info-card.svg?v=2cf84879e7" alt="Profile summary card: about, stack and highlights" width="100%">
+        <img src="output/info-card.svg?v=df89a653d9" alt="Profile summary card: about, stack and highlights" width="100%">
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="output/github-contribution-animation.svg?v=8371e75dca" alt="Animated contribution calendar — 28 contributions, 8 active days" width="100%">
+<img src="output/github-contribution-animation.svg?v=f06b449097" alt="Animated contribution calendar — 34 contributions, 10 active days" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-**8** active days &nbsp;·&nbsp; **2d** longest streak &nbsp;·&nbsp; **0d** current streak &nbsp;·&nbsp; **Python** most used
+**10** active days &nbsp;·&nbsp; **2d** longest streak &nbsp;·&nbsp; **2d** current streak &nbsp;·&nbsp; **Python** most used
 
 </div>
 
@@ -63,6 +63,6 @@
   <sub>
     Every asset above is a standalone animated SVG — no JavaScript, no external CSS, no web fonts.<br>
     Generated with <a href="https://github.com/r52854695">this repository's</a> Python build:
-    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-07-24 19:49 UTC
+    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-07-25 06:28 UTC
   </sub>
 </div>

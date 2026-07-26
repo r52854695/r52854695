@@ -35,7 +35,7 @@
         <img src="output/terminal-card.svg?v=62e04716ac" alt="ASCII portrait of @r52854695 typing itself into a terminal" width="100%">
       </td>
       <td width="50%" valign="top">
-        <img src="output/info-card.svg?v=df89a653d9" alt="Profile summary card: about, stack and highlights" width="100%">
+        <img src="output/info-card.svg?v=d1960bb3dc" alt="Profile summary card: about, stack and highlights" width="100%">
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="output/github-contribution-animation.svg?v=f06b449097" alt="Animated contribution calendar — 34 contributions, 10 active days" width="100%">
+<img src="output/github-contribution-animation.svg?v=39ebac9cc5" alt="Animated contribution calendar — 34 contributions, 10 active days" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-**10** active days &nbsp;·&nbsp; **2d** longest streak &nbsp;·&nbsp; **2d** current streak &nbsp;·&nbsp; **Python** most used
+**10** active days &nbsp;·&nbsp; **2d** longest streak &nbsp;·&nbsp; **0d** current streak &nbsp;·&nbsp; **Python** most used
 
 </div>
 
@@ -63,6 +63,6 @@
   <sub>
     Every asset above is a standalone animated SVG — no JavaScript, no external CSS, no web fonts.<br>
     Generated with <a href="https://github.com/r52854695">this repository's</a> Python build:
-    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-07-25 06:28 UTC
+    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-07-26 06:48 UTC
   </sub>
 </div>

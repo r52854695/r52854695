@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="output/github-contribution-animation.svg?v=c61d103906" alt="Animated contribution calendar — 35 contributions, 11 active days" width="100%">
+<img src="output/github-contribution-animation.svg?v=2e771a4b31" alt="Animated contribution calendar — 35 contributions, 11 active days" width="100%">
 
 </div>
 
@@ -63,6 +63,6 @@
   <sub>
     Every asset above is a standalone animated SVG — no JavaScript, no external CSS, no web fonts.<br>
     Generated with <a href="https://github.com/r52854695">this repository's</a> Python build:
-    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-08-03 07:45 UTC
+    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-08-04 06:40 UTC
   </sub>
 </div>

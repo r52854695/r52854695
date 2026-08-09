@@ -35,7 +35,7 @@
         <img src="output/terminal-card.svg?v=62e04716ac" alt="ASCII portrait of @r52854695 typing itself into a terminal" width="100%">
       </td>
       <td width="50%" valign="top">
-        <img src="output/info-card.svg?v=9440730202" alt="Profile summary card: about, stack and highlights" width="100%">
+        <img src="output/info-card.svg?v=aa33f8d28f" alt="Profile summary card: about, stack and highlights" width="100%">
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="output/github-contribution-animation.svg?v=7e020cb2d3" alt="Animated contribution calendar — 36 contributions, 12 active days" width="100%">
+<img src="output/github-contribution-animation.svg?v=45f80176bc" alt="Animated contribution calendar — 36 contributions, 12 active days" width="100%">
 
 </div>
 
@@ -63,6 +63,6 @@
   <sub>
     Every asset above is a standalone animated SVG — no JavaScript, no external CSS, no web fonts.<br>
     Generated with <a href="https://github.com/r52854695">this repository's</a> Python build:
-    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-08-08 05:09 UTC
+    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-08-09 05:17 UTC
   </sub>
 </div>

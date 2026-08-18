@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="output/hero-banner.svg?v=70c52650bc" alt="Rohit Dastidar — Cloud & DevOps · Azure · Kubernetes · Python" width="100%">
+<img src="output/hero-banner.svg?v=a750552660" alt="Rohit Dastidar — Cloud & DevOps · Azure · Kubernetes · Python" width="100%">
 
 </div>
 
@@ -20,8 +20,8 @@
 <p align="center"><em>Cloud & DevOps · Azure · Kubernetes · Python</em></p>
 
 <p align="center">
-  <a href="https://github.com/r52854695?tab=repositories"><img src="https://img.shields.io/badge/repositories-28-22d3ee?style=flat-square&labelColor=161b22" alt="28 public repositories"></a>
-  <a href="https://github.com/r52854695"><img src="https://img.shields.io/badge/contributions-42-3fb950?style=flat-square&labelColor=161b22" alt="42 contributions"></a>
+  <a href="https://github.com/r52854695?tab=repositories"><img src="https://img.shields.io/badge/repositories-27-22d3ee?style=flat-square&labelColor=161b22" alt="27 public repositories"></a>
+  <a href="https://github.com/r52854695"><img src="https://img.shields.io/badge/contributions-40-3fb950?style=flat-square&labelColor=161b22" alt="40 contributions"></a>
   <a href="https://github.com/r52854695?tab=followers"><img src="https://img.shields.io/badge/followers-0-a78bfa?style=flat-square&labelColor=161b22" alt="0 followers"></a>
   <img src="https://img.shields.io/badge/since-2023-f0883e?style=flat-square&labelColor=161b22" alt="Member since 2023">
 </p>
@@ -35,7 +35,7 @@
         <img src="output/terminal-card.svg?v=62e04716ac" alt="ASCII portrait of @r52854695 typing itself into a terminal" width="100%">
       </td>
       <td width="50%" valign="top">
-        <img src="output/info-card.svg?v=5fcab6aff2" alt="Profile summary card: about, stack and highlights" width="100%">
+        <img src="output/info-card.svg?v=990d6192c4" alt="Profile summary card: about, stack and highlights" width="100%">
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="output/github-contribution-animation.svg?v=7a9eb6537f" alt="Animated contribution calendar — 42 contributions, 15 active days" width="100%">
+<img src="output/github-contribution-animation.svg?v=419b4f5f1e" alt="Animated contribution calendar — 40 contributions, 14 active days" width="100%">
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-**15** active days &nbsp;·&nbsp; **3d** longest streak &nbsp;·&nbsp; **0d** current streak &nbsp;·&nbsp; **Python** most used
+**14** active days &nbsp;·&nbsp; **3d** longest streak &nbsp;·&nbsp; **0d** current streak &nbsp;·&nbsp; **Python** most used
 
 </div>
 
@@ -63,6 +63,6 @@
   <sub>
     Every asset above is a standalone animated SVG — no JavaScript, no external CSS, no web fonts.<br>
     Generated with <a href="https://github.com/r52854695">this repository's</a> Python build:
-    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-08-17 04:57 UTC
+    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-08-18 04:51 UTC
   </sub>
 </div>

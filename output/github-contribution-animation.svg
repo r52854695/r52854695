@@ -116,49 +116,53 @@
 Sep
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.00332;0.07711;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="116" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="102" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Oct
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01877;0.09255;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01309;0.08687;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="172" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="158" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Nov
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03872;0.11251;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03518;0.10897;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="242" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="228" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Dec
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05917;0.13295;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05647;0.13025;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="298" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="284" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Jan
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07696;0.15074;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0713;0.14509;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="354" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="340" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Feb
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09038;0.16416;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09184;0.16562;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="410" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="396" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Mar
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.11144;0.18523;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10342;0.17721;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="480" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="466" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Apr
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.13111;0.2049;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1286;0.20238;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="536" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="522" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 May
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15183;0.22562;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14723;0.22102;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="606" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="592" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Jun
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1722;0.24599;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16865;0.24244;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="662" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="648" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Jul
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18597;0.25976;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1853;0.25909;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
-<text x="718" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+<text x="704" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
 Aug
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20508;0.27886;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20031;0.2741;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
+</text>
+<text x="774" y="94" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="10" opacity="0">
+Sep
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22046;0.29424;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </text>
 </g>
 <g>
@@ -2718,7 +2722,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="620.5 142.5;620.5 142.5;626.1 134.66;625.5 135.5;625.5 135.5" keyTimes="0;0.1934;0.25961;0.31379;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.1934;0.24396;0.28008;0.31379;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1934;0.24396;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.19845;0.20357;0.22175;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2754,7 +2758,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="620.5 198.5;620.5 198.5;626.1 190.66;625.5 191.5;625.5 191.5" keyTimes="0;0.17367;0.23988;0.29405;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.17367;0.22423;0.26035;0.29405;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17367;0.22423;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.17871;0.18384;0.20202;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2781,7 +2785,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="634.5 142.5;634.5 142.5;640.1 134.66;639.5 135.5;639.5 135.5" keyTimes="0;0.19728;0.26349;0.31767;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.19728;0.24784;0.28396;0.31767;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19728;0.24784;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20233;0.20745;0.22563;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2817,7 +2821,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="634.5 198.5;634.5 198.5;640.1 190.66;639.5 191.5;639.5 191.5" keyTimes="0;0.17867;0.24488;0.29906;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.17867;0.22923;0.26535;0.29906;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17867;0.22923;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.18372;0.18885;0.20702;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2916,7 +2920,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="662.5 156.5;662.5 156.5;668.1 148.66;667.5 149.5;667.5 149.5" keyTimes="0;0.20196;0.26817;0.32235;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.20196;0.25252;0.28864;0.32235;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20196;0.25252;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20701;0.21214;0.23031;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2925,7 +2929,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="662.5 170.5;662.5 170.5;668.1 162.66;667.5 163.5;667.5 163.5" keyTimes="0;0.19286;0.25908;0.31325;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.19286;0.24343;0.27954;0.31325;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19286;0.24343;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv3" xlink:href="#cell-lv3"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.19791;0.20304;0.22121;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2952,7 +2956,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="676.5 114.5;676.5 114.5;682.1 106.66;681.5 107.5;681.5 107.5" keyTimes="0;0.21664;0.28286;0.33703;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.21664;0.26721;0.30332;0.33703;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21664;0.26721;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv3" xlink:href="#cell-lv3"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.22169;0.22682;0.24499;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2979,7 +2983,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="676.5 156.5;676.5 156.5;682.1 148.66;681.5 149.5;681.5 149.5" keyTimes="0;0.20537;0.27159;0.32576;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.20537;0.25594;0.29205;0.32576;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20537;0.25594;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv2" xlink:href="#cell-lv2"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.21042;0.21555;0.23372;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2988,7 +2992,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="676.5 170.5;676.5 170.5;682.1 162.66;681.5 163.5;681.5 163.5" keyTimes="0;0.20257;0.26878;0.32296;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.20257;0.25313;0.28925;0.32296;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20257;0.25313;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv3" xlink:href="#cell-lv3"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20762;0.21274;0.23092;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -2997,7 +3001,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="676.5 184.5;676.5 184.5;682.1 176.66;681.5 177.5;681.5 177.5" keyTimes="0;0.1968;0.26301;0.31718;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.1968;0.24736;0.28347;0.31718;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1968;0.24736;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv2" xlink:href="#cell-lv2"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20184;0.20697;0.22514;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3006,7 +3010,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="676.5 198.5;676.5 198.5;682.1 190.66;681.5 191.5;681.5 191.5" keyTimes="0;0.18847;0.25468;0.30885;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.18847;0.23903;0.27515;0.30885;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18847;0.23903;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv2" xlink:href="#cell-lv2"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.19351;0.19864;0.21682;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3015,7 +3019,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="690.5 114.5;690.5 114.5;696.1 106.66;695.5 107.5;695.5 107.5" keyTimes="0;0.2238;0.29002;0.34419;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.2238;0.27437;0.31048;0.34419;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2238;0.27437;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv3" xlink:href="#cell-lv3"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.22885;0.23398;0.25215;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3042,7 +3046,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="690.5 156.5;690.5 156.5;696.1 148.66;695.5 149.5;695.5 149.5" keyTimes="0;0.20874;0.27495;0.32912;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.20874;0.2593;0.29542;0.32912;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20874;0.2593;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv2" xlink:href="#cell-lv2"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.21378;0.21891;0.23709;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3060,7 +3064,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="690.5 184.5;690.5 184.5;696.1 176.66;695.5 177.5;695.5 177.5" keyTimes="0;0.20054;0.26675;0.32093;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.20054;0.2511;0.28722;0.32093;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20054;0.2511;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv2" xlink:href="#cell-lv2"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20559;0.21071;0.22889;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3069,7 +3073,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="690.5 198.5;690.5 198.5;696.1 190.66;695.5 191.5;695.5 191.5" keyTimes="0;0.19628;0.26249;0.31667;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.19628;0.24684;0.28296;0.31667;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19628;0.24684;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv2" xlink:href="#cell-lv2"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20133;0.20645;0.22463;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3078,7 +3082,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="704.5 114.5;704.5 114.5;710.1 106.66;709.5 107.5;709.5 107.5" keyTimes="0;0.22865;0.29486;0.34903;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.22865;0.27921;0.31533;0.34903;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22865;0.27921;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.23369;0.23882;0.257;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3123,7 +3127,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="704.5 184.5;704.5 184.5;710.1 176.66;709.5 177.5;709.5 177.5" keyTimes="0;0.2036;0.26981;0.32399;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.2036;0.25416;0.29028;0.32399;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2036;0.25416;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.20865;0.21377;0.23195;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3141,7 +3145,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="718.5 114.5;718.5 114.5;724.1 106.66;723.5 107.5;723.5 107.5" keyTimes="0;0.23237;0.29859;0.35276;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.23237;0.28294;0.31905;0.35276;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23237;0.28294;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv2" xlink:href="#cell-lv2"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.23742;0.24255;0.26072;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3150,7 +3154,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="718.5 128.5;718.5 128.5;724.1 120.66;723.5 121.5;723.5 121.5" keyTimes="0;0.22237;0.28859;0.34276;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.22237;0.27294;0.30905;0.34276;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22237;0.27294;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.22742;0.23255;0.25072;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3186,7 +3190,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="718.5 184.5;718.5 184.5;724.1 176.66;723.5 177.5;723.5 177.5" keyTimes="0;0.21034;0.27655;0.33073;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.21034;0.2609;0.29702;0.33073;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21034;0.2609;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.21539;0.22051;0.23869;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3204,7 +3208,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="732.5 114.5;732.5 114.5;738.1 106.66;737.5 107.5;737.5 107.5" keyTimes="0;0.2361;0.30231;0.35649;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.2361;0.28666;0.32278;0.35649;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2361;0.28666;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv2" xlink:href="#cell-lv2"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.24115;0.24628;0.26445;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3213,7 +3217,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="732.5 128.5;732.5 128.5;738.1 120.66;737.5 121.5;737.5 121.5" keyTimes="0;0.23116;0.29737;0.35154;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.23116;0.28172;0.31784;0.35154;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23116;0.28172;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.23621;0.24133;0.25951;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3303,7 +3307,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="746.5 170.5;746.5 170.5;752.1 162.66;751.5 163.5;751.5 163.5" keyTimes="0;0.21964;0.28586;0.34003;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.21964;0.27021;0.30632;0.34003;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21964;0.27021;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv1" xlink:href="#cell-lv1"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.22469;0.22982;0.24799;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3312,7 +3316,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="746.5 184.5;746.5 184.5;752.1 176.66;751.5 177.5;751.5 177.5" keyTimes="0;0.21656;0.28277;0.33694;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.21656;0.26712;0.30324;0.33694;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21656;0.26712;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv4" xlink:href="#cell-lv4"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.2216;0.22673;0.2449;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3330,7 +3334,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="760.5 114.5;760.5 114.5;766.1 106.66;765.5 107.5;765.5 107.5" keyTimes="0;0.24303;0.30924;0.36342;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.24303;0.29359;0.32971;0.36342;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24303;0.29359;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv4" xlink:href="#cell-lv4"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.24808;0.2532;0.27138;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3339,7 +3343,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="760.5 128.5;760.5 128.5;766.1 120.66;765.5 121.5;765.5 121.5" keyTimes="0;0.23568;0.30189;0.35607;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.23568;0.28624;0.32236;0.35607;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23568;0.28624;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
+<use href="#cell-lv2" xlink:href="#cell-lv2"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.24073;0.24585;0.26403;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3366,7 +3370,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="760.5 170.5;760.5 170.5;766.1 162.66;765.5 163.5;765.5 163.5" keyTimes="0;0.22424;0.29046;0.34463;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.22424;0.27481;0.31092;0.34463;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22424;0.27481;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv1" xlink:href="#cell-lv1"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.22929;0.23442;0.25259;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3375,7 +3379,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="760.5 184.5;760.5 184.5;766.1 176.66;765.5 177.5;765.5 177.5" keyTimes="0;0.22273;0.28894;0.34311;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.22273;0.27329;0.3094;0.34311;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22273;0.27329;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv4" xlink:href="#cell-lv4"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.22777;0.2329;0.25107;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3393,7 +3397,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="774.5 114.5;774.5 114.5;780.1 106.66;779.5 107.5;779.5 107.5" keyTimes="0;0.2471;0.31331;0.36748;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.2471;0.29766;0.33378;0.36748;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2471;0.29766;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv4" xlink:href="#cell-lv4"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.25215;0.25727;0.27545;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3402,7 +3406,7 @@ Fri
 <animateTransform attributeName="transform" type="translate" values="774.5 128.5;774.5 128.5;780.1 120.66;779.5 121.5;779.5 121.5" keyTimes="0;0.24359;0.3098;0.36398;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 <animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.24359;0.29415;0.33027;0.36398;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
 <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24359;0.29415;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv2" xlink:href="#cell-lv2"/>
+<use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.24864;0.25377;0.27194;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
@@ -3459,60 +3463,6 @@ Fri
 <use href="#cell-lv0" xlink:href="#cell-lv0"/>
 <use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
 <animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.25529;0.26042;0.27859;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-</use>
-</g>
-<g opacity="0">
-<animateTransform attributeName="transform" type="translate" values="788.5 128.5;788.5 128.5;794.1 120.66;793.5 121.5;793.5 121.5" keyTimes="0;0.2467;0.31291;0.36708;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-<animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.2467;0.29726;0.33338;0.36708;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2467;0.29726;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
-<use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
-<animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.25174;0.25687;0.27505;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-</use>
-</g>
-<g opacity="0">
-<animateTransform attributeName="transform" type="translate" values="788.5 142.5;788.5 142.5;794.1 134.66;793.5 135.5;793.5 135.5" keyTimes="0;0.24518;0.31139;0.36557;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-<animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.24518;0.29574;0.33186;0.36557;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24518;0.29574;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
-<use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
-<animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.25023;0.25535;0.27353;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-</use>
-</g>
-<g opacity="0">
-<animateTransform attributeName="transform" type="translate" values="788.5 156.5;788.5 156.5;794.1 148.66;793.5 149.5;793.5 149.5" keyTimes="0;0.23972;0.30593;0.3601;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-<animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.23972;0.29028;0.32639;0.3601;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23972;0.29028;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
-<use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
-<animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.24476;0.24989;0.26806;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-</use>
-</g>
-<g opacity="0">
-<animateTransform attributeName="transform" type="translate" values="788.5 170.5;788.5 170.5;794.1 162.66;793.5 163.5;793.5 163.5" keyTimes="0;0.23617;0.30238;0.35656;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-<animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.23617;0.28673;0.32285;0.35656;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23617;0.28673;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
-<use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
-<animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.24122;0.24634;0.26452;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-</use>
-</g>
-<g opacity="0">
-<animateTransform attributeName="transform" type="translate" values="788.5 184.5;788.5 184.5;794.1 176.66;793.5 177.5;793.5 177.5" keyTimes="0;0.22932;0.29553;0.34971;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-<animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.22932;0.27988;0.316;0.34971;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22932;0.27988;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
-<use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
-<animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.23437;0.23949;0.25767;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-</use>
-</g>
-<g opacity="0">
-<animateTransform attributeName="transform" type="translate" values="788.5 198.5;788.5 198.5;794.1 190.66;793.5 191.5;793.5 191.5" keyTimes="0;0.22728;0.2935;0.34767;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
-<animateTransform attributeName="transform" type="scale" values="0;0;1.14;0.97;1;1" keyTimes="0;0.22728;0.27784;0.31396;0.34767;1" dur="5.15s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.445 0.05 0.55 0.95;0.215 0.61 0.355 1;0 0 1 1"/>
-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22728;0.27784;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.23 1 0.32 1;0 0 1 1"/>
-<use href="#cell-lv0" xlink:href="#cell-lv0"/>
-<use opacity="0" href="#cell-glint" xlink:href="#cell-glint">
-<animate attributeName="opacity" values="0;0;0.85;0;0" keyTimes="0;0.23233;0.23746;0.25563;1" dur="5.15s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.16 1 0.3 1;0.215 0.61 0.355 1;0 0 1 1"/>
 </use>
 </g>
 </g>

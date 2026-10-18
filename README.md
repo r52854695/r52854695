@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/r52854695?tab=repositories"><img src="https://img.shields.io/badge/repositories-28-22d3ee?style=flat-square&labelColor=161b22" alt="28 public repositories"></a>
   <a href="https://github.com/r52854695"><img src="https://img.shields.io/badge/contributions-60-3fb950?style=flat-square&labelColor=161b22" alt="60 contributions"></a>
-  <a href="https://github.com/r52854695?tab=followers"><img src="https://img.shields.io/badge/followers-0-a78bfa?style=flat-square&labelColor=161b22" alt="0 followers"></a>
+  <a href="https://github.com/r52854695?tab=followers"><img src="https://img.shields.io/badge/followers-1-a78bfa?style=flat-square&labelColor=161b22" alt="1 followers"></a>
   <img src="https://img.shields.io/badge/since-2023-f0883e?style=flat-square&labelColor=161b22" alt="Member since 2023">
 </p>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="output/github-contribution-animation.svg?v=7295354f60" alt="Animated contribution calendar — 60 contributions, 17 active days" width="100%">
+<img src="output/github-contribution-animation.svg?v=5143e58317" alt="Animated contribution calendar — 60 contributions, 17 active days" width="100%">
 
 </div>
 
@@ -63,6 +63,6 @@
   <sub>
     Every asset above is a standalone animated SVG — no JavaScript, no external CSS, no web fonts.<br>
     Generated with <a href="https://github.com/r52854695">this repository's</a> Python build:
-    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-10-17 08:32 UTC
+    <code>python build.py</code> &nbsp;·&nbsp; last run 2026-10-18 08:50 UTC
   </sub>
 </div>
